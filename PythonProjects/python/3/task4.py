@@ -1,0 +1,1 @@
+print("yes" if (s:=input()).count("1")==s.count("0") else "no")
